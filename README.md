@@ -120,9 +120,4 @@ A `requirements.txt` file is included for easy installation:
 
 
 
-
-
-
-
-
-The true value of this project lies in its application. A smart energy system can use the model's forecast to make intelligent decisions. The following pseudocode illustrates how a system could use the forecast to optimize energy usage.
+The true value of this project lies in its application. A smart energy system can use the model's forecast to make intelligent decisions. 
